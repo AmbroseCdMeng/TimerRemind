@@ -1,0 +1,31 @@
+﻿<Window x:Class="TimerRemind.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="timerRemind" Height="280" Width="430"
+        WindowStyle="None" 
+        ResizeMode="NoResize" 
+        Background="Transparent" 
+        Topmost="True"
+        WindowStartupLocation="CenterScreen" 
+        Loaded="Grid_Loaded_1" 
+        WindowState="Minimized"
+        ShowInTaskbar="False"
+        AllowsTransparency="True" 
+        MouseDown="Window_MouseDown_1">
+    <Grid Margin="0,0,0,0">
+
+        <Label 
+            Name="L_RemindText"
+            Content="Hi~" 
+            Background="Transparent" 
+            Foreground="Transparent" 
+            HorizontalAlignment="Center" 
+            VerticalContentAlignment="Center"
+            FontSize="58" 
+            FontWeight="Bold" 
+            FontFamily="{StaticResource ResourceKey=DFWaWaW5}" MouseDown="L_RemindText_MouseDown">
+            
+        </Label>
+    </Grid>
+
+</Window>

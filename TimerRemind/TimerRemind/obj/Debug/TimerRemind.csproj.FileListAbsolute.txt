@@ -1,0 +1,14 @@
+E:\mengchengdu\TimerRemind\TimerRemind\TimerRemind\bin\Debug\TimerRemind.exe.config
+E:\mengchengdu\TimerRemind\TimerRemind\TimerRemind\bin\Debug\TimerRemind.exe
+E:\mengchengdu\TimerRemind\TimerRemind\TimerRemind\bin\Debug\TimerRemind.pdb
+E:\mengchengdu\TimerRemind\TimerRemind\TimerRemind\obj\Debug\TimerRemind.csprojResolveAssemblyReference.cache
+E:\mengchengdu\TimerRemind\TimerRemind\TimerRemind\obj\Debug\MainWindow.baml
+E:\mengchengdu\TimerRemind\TimerRemind\TimerRemind\obj\Debug\MainWindow.g.cs
+E:\mengchengdu\TimerRemind\TimerRemind\TimerRemind\obj\Debug\App.g.cs
+E:\mengchengdu\TimerRemind\TimerRemind\TimerRemind\obj\Debug\TimerRemind_MarkupCompile.cache
+E:\mengchengdu\TimerRemind\TimerRemind\TimerRemind\obj\Debug\TimerRemind.g.resources
+E:\mengchengdu\TimerRemind\TimerRemind\TimerRemind\obj\Debug\TimerRemind.Properties.Resources.resources
+E:\mengchengdu\TimerRemind\TimerRemind\TimerRemind\obj\Debug\TimerRemind.csproj.GenerateResource.Cache
+E:\mengchengdu\TimerRemind\TimerRemind\TimerRemind\obj\Debug\TimerRemind.exe
+E:\mengchengdu\TimerRemind\TimerRemind\TimerRemind\obj\Debug\TimerRemind.pdb
+E:\mengchengdu\TimerRemind\TimerRemind\TimerRemind\obj\Debug\App.baml
